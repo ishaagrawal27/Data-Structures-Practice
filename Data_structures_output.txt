@@ -1,0 +1,136 @@
+
+PROBLEM 1: WORD FREQUENCY COUNTER
+
+Total number of words: 62
+
+Word Frequency:
+a : 1
+also : 1
+analysis : 1
+and : 4
+analyze : 1
+automation : 1
+be : 1
+beginners : 1
+better : 1
+can : 2
+data : 2
+easy : 1
+for : 3
+helps : 1
+is : 4
+language : 1
+learn : 2
+learning : 2
+machine : 1
+many : 1
+popular : 1
+practice : 2
+professionals : 1
+problems : 1
+programming : 2
+python : 9
+regular : 1
+requires : 1
+solve : 1
+students : 3
+to : 2
+understand : 1
+use : 1
+used : 2
+useful : 1
+widely : 1
+
+
+PROBLEM 2: DUPLICATE REMOVER
+
+Original List:
+[12, 25, 18, 30, 45, 12, 56, 25, 67, 30, 78, 45, 89, 90, 18, 100, 67, 34, 56, 23, 45, 78, 90, 12, 34, 100, 25, 67, 89, 30, 56, 23, 18, 45, 78, 90, 34, 100, 12, 67]
+
+Number of values in original list: 40
+
+List Without Duplicates:
+[12, 18, 23, 25, 30, 34, 45, 56, 67, 78, 89, 90, 100]
+
+Number of unique values: 13
+
+
+
+PROBLEM 3: STUDENT MARKS & AVERAGE
+
+Student Performance:
+
+Student: Aarav
+Marks: [85, 78, 92, 88, 76]
+Total: 419
+Average: 83.8
+
+Student: Ananya
+Marks: [91, 87, 89, 94, 90]
+Total: 451
+Average: 90.2
+
+Student: Rahul
+Marks: [72, 68, 75, 80, 74]
+Total: 369
+Average: 73.8
+
+Student: Priya
+Marks: [88, 92, 85, 90, 87]
+Total: 442
+Average: 88.4
+
+Student: Rohan
+Marks: [65, 70, 68, 72, 75]
+Total: 350
+Average: 70.0
+
+Student: Sneha
+Marks: [95, 91, 93, 89, 96]
+Total: 464
+Average: 92.8
+
+Student: Aditya
+Marks: [78, 82, 80, 85, 79]
+Total: 404
+Average: 80.8
+
+Student: Kavya
+Marks: [90, 88, 92, 86, 91]
+Total: 447
+Average: 89.4
+
+Student: Arjun
+Marks: [74, 79, 77, 81, 73]
+Total: 384
+Average: 76.8
+
+Student: Meera
+Marks: [86, 84, 89, 91, 88]
+Total: 438
+Average: 87.6
+
+Student: Vikram
+Marks: [69, 75, 71, 78, 73]
+Total: 366
+Average: 73.2
+
+Student: Neha
+Marks: [93, 95, 90, 92, 94]
+Total: 464
+Average: 92.8
+
+
+
+PROBLEM 4: COMMON ELEMENTS BETWEEN TWO LISTS
+List 1:
+[10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 85, 90, 95, 100, 105, 110, 115, 120]
+
+List 2:
+[5, 10, 15, 22, 30, 35, 42, 45, 50, 58, 60, 65, 72, 75, 80, 88, 90, 95, 100, 108, 115, 120, 125]
+
+Common Elements:
+[10, 15, 30, 35, 45, 50, 60, 65, 75, 80, 90, 95, 100, 115, 120]
+
+Number of common elements: 15
+
